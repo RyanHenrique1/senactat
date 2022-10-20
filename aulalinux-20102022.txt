@@ -1,0 +1,11 @@
+terceira etapa : instalar software (linux) 
+         MICROSOFT - .EXE ou MSI 
+		 ----------------------------
+		 linux mint: 15 - .DEB
+		 google chrome - 64bits .deb
+		 opera linux 
+		 
+		 Gdebi -->  Depedencias 
+		 central de aplicativos 
+		 terminal - apt
+		  sudo apt install git vim psensor
