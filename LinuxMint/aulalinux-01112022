@@ -5,4 +5,10 @@ PESQUISAR: Markdown - extensão: * .md
 README.md
 
 PESQUISAR: Comando: git - Editor: VSCode
+                          ( Visual Studio Code)
+                          
+     CLONAR
+     
+     sudo apt update
+     sudo apt install git vim
                           
