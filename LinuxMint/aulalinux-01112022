@@ -1,2 +1,8 @@
 GITHUB- diretorio = repositorio 
-GITHUB- microsoft/GNU
+GITHUB- microsoft= GNU/Linux Open Source 
+                       (case sensitive)
+PESQUISAR: Markdown - extensão: * .md
+README.md
+
+PESQUISAR: Comando: git - Editor: VSCode
+                          
